@@ -1,0 +1,12 @@
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\bin\Debug\netcoreapp2.2\AnaliseDados.deps.json
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\bin\Debug\netcoreapp2.2\AnaliseDados.runtimeconfig.json
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\bin\Debug\netcoreapp2.2\AnaliseDados.runtimeconfig.dev.json
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\bin\Debug\netcoreapp2.2\AnaliseDados.dll
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\bin\Debug\netcoreapp2.2\AnaliseDados.pdb
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\obj\Debug\netcoreapp2.2\AnaliseDados.csproj.CoreCompileInputs.cache
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\obj\Debug\netcoreapp2.2\AnaliseDados.AssemblyInfoInputs.cache
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\obj\Debug\netcoreapp2.2\AnaliseDados.AssemblyInfo.cs
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\obj\Debug\netcoreapp2.2\AnaliseDados.dll
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\obj\Debug\netcoreapp2.2\AnaliseDados.pdb
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\obj\Debug\netcoreapp2.2\AnaliseDados.csprojAssemblyReference.cache
+C:\Users\fabio.finn\source\repos\AnaliseDados\AnaliseDados\bin\Debug\netcoreapp2.2\appsettings.json
